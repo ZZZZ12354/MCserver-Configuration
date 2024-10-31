@@ -1,6 +1,6 @@
 # PKU SESS MC server
 
-![!\[alt-text\]](../图片/1.png)
+![pics/1.png](pics/1.png)
 
 ## 服务器简介
 服务器的物理实体位于服主家中，通过公网ip连接，服务端为spigot。
